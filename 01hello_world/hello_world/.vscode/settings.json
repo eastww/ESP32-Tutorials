@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\xtensa-esp32-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32-elf\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s2-elf\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s3-elf\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\riscv32-esp-elf\\esp-2021r2-patch5-8.4.0\\riscv32-esp-elf\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\cmake\\3.23.1\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20220706\\openocd-esp32\\bin;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\ninja\\1.10.2;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\idf-exe\\1.0.3;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\ccache\\4.3\\ccache-4.3-windows-64;D:\\ESP32\\ESP_IDF_Tools\\.espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"D:\\\\ESP32\\\\ESP_IDF_Tools\\\\.espressif\\\\tools\\\\openocd-esp32\\\\v0.11.0-esp32-20220706/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
+    "idf.espIdfPathWin": "D:/ESP32/ESP_IDF_Tools/.espressif/frameworks/esp-idf-v4.4.3/",
+    "idf.openOcdConfigs": [
+        "board/esp32-bridge.cfg"
+    ],
+    "idf.portWin": "COM62",
+    "idf.pythonBinPathWin": "D:/ESP32/ESP_IDF_Tools/.espressif/python_env/idf4.4_py3.8_env/Scripts/python.exe",
+    "idf.toolsPathWin": "D:\\ESP32\\ESP_IDF_Tools\\.espressif"
+}
